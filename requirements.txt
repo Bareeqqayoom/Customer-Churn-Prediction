@@ -6,3 +6,7 @@ seaborn
 jupyter
 openpyxl
 joblib
+fastapi
+uvicorn
+pydantic
+python-multipart
